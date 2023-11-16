@@ -1,6 +1,8 @@
 ### Hi there 👋
+
 ```diff
 ## About Me ✨
+
 class Edwx {
     val firstName = "Edwar A."
     val lastName = "Gaspar"
@@ -55,6 +57,7 @@ class Hobbies {
     val gaming = "Casual gaming 🎮"
 }
 ```
+
 <!--
 **Edwx/Edwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
