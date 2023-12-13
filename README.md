@@ -22,13 +22,13 @@ class Edwx {
 ## Proficiencies 💡
 
 class Frontend {
-    val android = listOf("Java ♨️", "Kotlin 🌟")
-    val flutter = "Dart 🚀"
+    val mobile = listOf("Java ♨️", "Kotlin 🌟", "Dart 🚀")
+    val web = listOf("JavaScript ⚡", "TypeScript 💎")
 }
 
 class Backend {
     val dotNet = listOf("C# 🔧", ".NET ⚙️")
-+   val java = "Java ☕️"
++   val java = listOf("Java ☕️", "Spring Framework ⚙️")
 }
 
 class Databases {
@@ -52,23 +52,7 @@ class Education {
 ## Beyond Coding 💫
 
 class Hobbies {
-    val running = "Running enthusiast 🏃‍♂️"
-    val trailRunning = "Trail running explorer 🌲"
+    val sports = listOf("Road Running enthusiast 🏃‍♂️", "Trail running explorer 🌲")
     val gaming = "Casual gaming 🎮"
 }
 ```
-
-<!--
-**Edwx/Edwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
